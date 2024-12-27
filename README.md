@@ -1,6 +1,6 @@
 
-👋 About Me <br>
-Welcome to my GitHub profile!
+
+Welcome to my GitHub profile! <br>
 
 🎓 Bachelor's Student in Data Science<br>
 I am passionate about uncovering insights and driving decisions through data. Currently, I am in the process of building a strong foundation in analytics and programming.
