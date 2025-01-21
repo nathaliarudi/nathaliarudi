@@ -17,7 +17,7 @@ I’m also enhancing my skills through the Google Career Certificate in Data Ana
 <li>Collaborate on projects that solve meaningful problems with data.<br></li>
 <li>Continuously learn and grow as I progress through my academic and professional journey.<br></ul></li>
 
-✨ Feel free to explore my repositories and connect with me to discuss all things data! 😊
+✨ Feel free to explore my repositories and connect with me to discuss all things data! 
 
 
 
